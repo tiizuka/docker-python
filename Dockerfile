@@ -6,4 +6,5 @@ RUN pip install --no-cache-dir \
                 sympy \
                 pingouin \
                 more-itertools \
-                tabulate
+                tabulate \
+                japanize-matplotlib

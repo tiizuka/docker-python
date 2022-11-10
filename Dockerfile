@@ -4,9 +4,9 @@ RUN pip install --no-cache-dir --upgrade \
                 pip && \
     pip install --no-cache-dir \
                 pandas \
-                sklearn \
+                scikit-learn \
                 sympy \
-                pingouin \
+                # pingouin \
                 more-itertools \
                 tabulate \
                 japanize-matplotlib

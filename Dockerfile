@@ -5,6 +5,7 @@ RUN pip install --no-cache-dir --upgrade \
     pip install --no-cache-dir \
                 pandas \
                 lxml \
+                xlrd \
                 scikit-learn \
                 sympy \
                 # pingouin \

@@ -11,4 +11,5 @@ RUN pip install --no-cache-dir --upgrade \
                 # pingouin \
                 more-itertools \
                 tabulate \
+                pipe \
                 japanize-matplotlib

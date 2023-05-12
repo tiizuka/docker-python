@@ -7,6 +7,7 @@ RUN pip install --no-cache-dir --upgrade \
                 lxml \
                 xlrd \
                 scikit-learn \
+                gmpy2 \
                 sympy \
                 # pingouin \
                 more-itertools \

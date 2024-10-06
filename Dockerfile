@@ -11,6 +11,7 @@ RUN pip install --no-cache-dir --upgrade \
                 sympy \
                 # pingouin \
                 more-itertools \
+                statsmodels \
                 tabulate \
                 pipe \
                 japanize-matplotlib

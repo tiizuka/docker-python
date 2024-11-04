@@ -6,6 +6,7 @@ RUN pip install --no-cache-dir --upgrade \
                 pandas \
                 lxml \
                 xlrd \
+                openpyxl \
                 scikit-learn \
                 gmpy2 \
                 sympy \
